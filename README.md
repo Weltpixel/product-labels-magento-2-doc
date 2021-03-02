@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html">Magento 2 Product Labels - New, Sale, Discount Stickers by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Product Labels - New, Sale, Discount Stickers by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html"><img src="https://www.weltpixel.com/media/catalog/product/0/7/07__product_labels_-_new_sale_discount_stickers_1_1.png" alt="Product Labels - New, Sale, Discount Stickers"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/0/7/07__product_labels_-_new_sale_discount_stickers_1_1.png" alt="Product Labels - New, Sale, Discount Stickers"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MAGENTO 2 PRODUCT LABELS EXTENSION.</h1>
+    <h1>ABOUT THE MAGENTO 2 PRODUCT LABELS EXTENSION.</h1>
                         <p>
                            <strong>Boost sales by making your pages and products more attractive!</strong>
 
@@ -19,8 +19,8 @@ You can add attractive icons and call-to-action texts. For example: "Hot," "New,
 
 Our Magento 2 product stickers extension allows you to add multiple labels based on predefined rules. You can create them for individual products, all products in a category, discount products, new arrivals, and more. You can even mix these label rules together. We make it easy for you to say goodbye to stock labels and tailor a custom experience for your customers.
                         </p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html">Magento 2 Product Labels - New, Sale, Discount Stickers by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Product Labels - New, Sale, Discount Stickers by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
    </div></td>
  </tr>
 </table>
@@ -209,8 +209,8 @@ Our Magento 2 product stickers extension allows you to add multiple labels based
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO CONFIGURE CUSTOM PRODUCT LABELS IN MAGENTO?</h2>
@@ -238,7 +238,7 @@ Go to <strong>Admin > WeltPixel > Product Labels > General Settings</strong>
 
 Go to <strong>Admin > WeltPixel > Product Labels > Manage Labels</strong>
 <ul>
-	<li>
+  <li>
 To manage an existing label, under the Action column, click on <strong>Select -> Edit</strong>.
 </li>
 <li>
@@ -266,16 +266,16 @@ Go to <strong>Admin > WeltPixel > Product Labels > Manage Labels > Add New Label
 <strong>Status [Active / Inactive]</strong> - Set current label status.
 </li>
 <li>
-	<strong> Valid From</strong> - Set start validity date and time.
+  <strong> Valid From</strong> - Set start validity date and time.
 </li>
 <li>
 <strong>Valid To</strong> - Set end validity date and time.
 </li>
 <li>
-	<strong>Store View</strong> - Choose Store View to display the label on.
+  <strong>Store View</strong> - Choose Store View to display the label on.
 </li>
 <li>
-	<strong>Customer Group</strong> - Choose Customer Group to display label for.
+  <strong>Customer Group</strong> - Choose Customer Group to display label for.
 </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-labels/New-Label-General-Section-R.png"></p>
@@ -298,22 +298,22 @@ Go to <strong>Admin > WeltPixel > Product Labels > Manage Labels > Add New Label
 <strong>Text Background Color</strong> - Choose a background color for the label.
 </li>
 <li>
-	<strong>Text Font Size</strong> - Choose a font size for the label's text.
+  <strong>Text Font Size</strong> - Choose a font size for the label's text.
 </li>
 <li>
 <strong>Text Padding</strong> - Choose padding values.
 </li>
 <li>
-	<strong>Preview</strong> - Check out what the label would look like in the frontend.
+  <strong>Preview</strong> - Check out what the label would look like in the frontend.
 </li>
 <li>
-	<strong>Custom CSS</strong> - Add your own Custom CSS to the label.
+  <strong>Custom CSS</strong> - Add your own Custom CSS to the label.
 </li>
 <li>
-	<strong>Image</strong> - Upload your own image for the label. Uploading an image overrides text. To remove an image, simply click on the trash can icon in the bottom left corner.
+  <strong>Image</strong> - Upload your own image for the label. Uploading an image overrides text. To remove an image, simply click on the trash can icon in the bottom left corner.
 </li>
 <li>
-	<strong>Position</strong> - Choose where you want the label to be displayed.
+  <strong>Position</strong> - Choose where you want the label to be displayed.
 </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-labels/Product-Page-L.png"></p>
@@ -336,22 +336,22 @@ Go to <strong>Admin > WeltPixel > Product Labels > Manage Labels > Add New Label
 <strong>Text Background Color</strong> - Choose a background color for the label.
 </li>
 <li>
-	<strong>Text Font Size</strong> - Choose a font size for the label's text.
+  <strong>Text Font Size</strong> - Choose a font size for the label's text.
 </li>
 <li>
 <strong>Text Padding</strong> - Choose padding values.
 </li>
 <li>
-	<strong>Preview</strong> - Check out what the label would look like in the frontend.
+  <strong>Preview</strong> - Check out what the label would look like in the frontend.
 </li>
 <li>
-	<strong>Custom CSS</strong> - Add your own Custom CSS to the label.
+  <strong>Custom CSS</strong> - Add your own Custom CSS to the label.
 </li>
 <li>
-	<strong>Image</strong> - Upload your own image for the label. Uploading an image overrides text. To remove an image, simply click on the trash can icon in the bottom left corner.
+  <strong>Image</strong> - Upload your own image for the label. Uploading an image overrides text. To remove an image, simply click on the trash can icon in the bottom left corner.
 </li>
 <li>
-	<strong>Position</strong> - Choose where you want the label to be displayed.
+  <strong>Position</strong> - Choose where you want the label to be displayed.
 </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-labels/Product-Labels-Category-Page-Alt-R.png"></p>
@@ -374,7 +374,7 @@ In order for an attribute to show up as a Condition, it has to be configured to 
 <strong>Note:</strong> Normally, the labels should show up automatically after the save or when the crons have run. However, depending on the conditions configured, if you encounter cases in which the labels don't show up, just run the command below to manually trigger the label reindex:
 </li>
 <p>
-	<strong>php bin/magento indexer:reindex weltpixel_products_labels_rule</strong>
+  <strong>php bin/magento indexer:reindex weltpixel_products_labels_rule</strong>
 </p>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-labels/Product-Labels-Conditions-L.png"></p>
@@ -382,4 +382,4 @@ In order for an attribute to show up as a Condition, it has to be configured to 
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html">Product Labels - New, Sale, Discount Stickers by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-product-labels-new-sale-discount-stickers.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Product Labels - New, Sale, Discount Stickers by WeltPixel.</a></h3>
